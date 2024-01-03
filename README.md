@@ -1,5 +1,3 @@
-# Attorney-System
-
 Description of the project:
 
 This project is Law based, a Attorney System. A law-firm based website is needed since it is easier to reach to people, it becomes the best communication tool where the people who doesn’t know your law
